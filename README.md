@@ -19,8 +19,8 @@ I want to be a Gentoo linux user.
 I'm also making various tutorial on how to do thing on Linux <br> </p>
 
 ### Currently Learning
-* Android Development
-* Java 
+* Java
+* Android Application Development
 * More about Linux
 
 ## My Works
