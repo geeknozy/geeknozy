@@ -6,11 +6,11 @@
   </p>
 
 ## About Me!
-<p> NOZY is my nickname. I'm from <b>India!</b> <br>
+<p> NOZY is my nickname. I'm from <b>India!</b> <br> <br>
 Ask me about Linux Operating Systems. (I'm a Distro Hopper :P) <br>
-My current fav operating systems are 
-  1. Artix Linux (runit) - My present daily driver.
-  2. Arch Linux.
+My current fav operating systems are <br>
+  1. Artix Linux (runit) - My present daily driver.<br>
+  2. Arch Linux. <br>
   
 I want to be a Gentoo linux user.
   
