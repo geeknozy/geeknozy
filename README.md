@@ -1,7 +1,7 @@
 ## Hi there welcome to my GitHub profile. 👋 <br>
 <p align="center">
   <img width=600
-      
+       src=./readme_image.jpg
        >
   </p>
 
