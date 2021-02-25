@@ -6,7 +6,7 @@
   </p>
 
 ## About Me!
-<p> NOZY is my nickname. I'm from <b>India!</b> <br>
+<p> <b>NOZY</b> is my nickname. I'm from <b>India!</b> <br>
   
 Ask me about Linux Operating Systems. (I'm a Distro Hopper :P) <br>
 
