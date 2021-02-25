@@ -14,12 +14,12 @@ My current fav operating systems are <br>
   1. Artix Linux (runit) - My present daily driver.<br>
   2. Arch Linux. <br>
   
-I want to be a Gentoo linux user.
+Looking at you Gentoo Linux. "0 0"
   
-I'm also making various tutorial on how to do thing on Linux <br> </p>
+I'm also making various tutorials for Linux <br> </p>
 
 ### Currently Learning
-* Java
+* Java/J2EE
 * Android Application Development
 * More about Linux
 
