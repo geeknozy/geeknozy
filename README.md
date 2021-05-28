@@ -7,7 +7,7 @@
 
 ## About Me!
 <p> <b>NOZY</b> is my nickname. I'm from <b>India</b> <br>
-<p> I'm a Java/J2EE developer. <br>
+<p> I'm a Java/J2EE developer. / ETRM Domain<br>
 Ask me about Linux Operating Systems. (I'm a Distro Hopper :P) <br>
 
 My current fav operating systems are <br>
