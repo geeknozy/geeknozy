@@ -27,7 +27,7 @@ I'm also making various tutorials for Linux <br> </p>
 - [Arch](https://github.com/geeknozy/Arch-Linux-Installation-Guide-2020)
 - [OpenBox Config](https://github.com/geeknozy/Window-Tiling-on-OpenBox-Window-Manager)
 - [Conky](https://github.com/geeknozy/conky-configuration)
-
+- [GruvBox Theme on Artix Linux BareBones](https://github.com/geeknozy/BSPWM-GruvBox-Theme)
 
 #### Shoutouts : 
 1. AvishekPD https://github.com/AvishekPD 
