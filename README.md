@@ -10,7 +10,7 @@
 <p> I'm a Java/J2EE developer. / ETRM Domain<br>
 Ask me about Linux Operating Systems. (I'm a Distro Hopper :P) <br>
 
-My current fav operating systems are <br>
+My current favourite Linux operating systems are <br>
   1. Arch Linux - My present daily driver.<br>
   2. Gentoo Linux <br>
   3. Debian 
