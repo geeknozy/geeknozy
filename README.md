@@ -11,8 +11,10 @@
 Ask me about Linux Operating Systems. (I'm a Distro Hopper :P) <br>
 
 My current fav operating systems are <br>
-  1. Artix Linux (runit) - My present daily driver.<br>
-  2. Arch Linux. <br>
+  1. Arch Linux - My present daily driver.<br>
+  2. Gentoo Linux <br>
+  3. Debian 
+  4. Fedora
   
 Looking at you Gentoo Linux. "0 0"
   
