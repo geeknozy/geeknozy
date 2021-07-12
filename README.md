@@ -11,12 +11,9 @@
 Ask me about Linux Operating Systems. (I'm a Distro Hopper :P) <br>
 
 My current favourite Linux operating systems are <br>
-  1. Arch Linux - My present daily driver.<br>
-  2. Gentoo Linux <br>
-  3. Debian 
-  4. Fedora
-  
-Looking at you Gentoo Linux. "0 0"
+  1. Debian - My present daily driver.<br>
+  2. Arch Linux 
+  3. Fedora
   
 I'm also making various tutorials for Linux <br> </p>
 
