@@ -1,7 +1,7 @@
 ### Hi there :)<br>
 
 #### About Me!
-<p> <b>NOZY</b> is my nickname. I'm from <b>India</b> <br>
+<p> <b>NOZY</b> is my nickname. I'm from <b>India</b> <br> </p>
 * I'm a Java/J2EE developer working in ETRM Domain<br>
 * I'm a hobbyist Linux User <br>
 
