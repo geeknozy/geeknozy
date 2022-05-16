@@ -2,14 +2,14 @@
 
 #### About Me!
 <p> <b>NOZY</b> is my nickname. I'm from <b>India</b> <br>
-<p> I'm a Java/J2EE developer. working in ETRM Domain<br>
+<p> I'm a Java/J2EE developer working in ETRM Domain<br>
 I'm a hobbyist Linux User <br>
 
 My favourite Linux operating systems are <br>
   1. Arch Linux <br>
   2. Debian <br>
   
-I'm also love making various tutorials for Linux <br> </p>
+I also love making tutorials for Linux.<br> </p>
  [My YouTube Channel](https://www.youtube.com/channel/UCz4qSiJf76CDsCyVpz-M9sg)
 
 ### Currently Learning
