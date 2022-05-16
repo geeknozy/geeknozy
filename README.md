@@ -6,7 +6,7 @@
 - I'm a hobbyist Linux user and I like to tinker with operating systems.<br>
 - I believe in life long learning.<br>
   
-I also love making tutorials for Linux.<br> </p>
+#### I also love making tutorials for Linux.<br> </p>
  [My YouTube Channel](https://www.youtube.com/channel/UCz4qSiJf76CDsCyVpz-M9sg) <br>
 
 #### Currently learning / working on
