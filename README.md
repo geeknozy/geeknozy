@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there :)<br>
 
-<!--
-**geeknozy/geeknozy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me!
+<p> <b>NOZY</b> is my nickname. I'm from <b>India</b> <br>
+<p> I'm a Java/J2EE developer. working in ETRM Domain<br>
+I'm a hobbyist Linux User <br>
 
-Here are some ideas to get you started:
+My favourite Linux operating systems are <br>
+  1. Arch Linux <br>
+  2. Debian <br>
+  
+I'm also love making various tutorials for Linux <br> </p>
+ [My YouTube Channel](https://www.youtube.com/channel/UCz4qSiJf76CDsCyVpz-M9sg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+* Java/J2EE
+* Android Application Development
+* More about Linux
+
+#### My Works
+- [Arch Linux Installation Guide](https://github.com/geeknozy/Arch-Linux-Installation-Guide)
+- [GruvBox Theme on Arch Linux](https://github.com/geeknozy/Arch-BSPWM)
