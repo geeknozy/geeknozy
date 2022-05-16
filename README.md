@@ -1,10 +1,10 @@
 ### Hi there :)<br>
 
 #### About Me!
-<p> <b>NOZY</b> is my nickname. I'm from <b>India</b> </p> <br>
-<p> - I'm a Java/J2EE developer working in ETRM Domain. </p> <br>
-<p> - I'm a hobbyist Linux user and I like to tinker with operating systems.</p> <br>
-<p> - I believe in life long learning. </p> <br>
+<b>NOZY</b> is my nickname. I'm from <b>India</b><br>
+- I'm a Java/J2EE developer working in ETRM Domain.<br>
+- I'm a hobbyist Linux user and I like to tinker with operating systems.<br>
+- I believe in life long learning.<br>
   
 I also love making tutorials for Linux.<br> </p>
  [My YouTube Channel](https://www.youtube.com/channel/UCz4qSiJf76CDsCyVpz-M9sg) <br>
