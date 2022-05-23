@@ -18,4 +18,10 @@
 - [Arch Linux Installation Guide](https://github.com/geeknozy/Arch-Linux-Installation-Guide)
 - [GruvBox Theme on Arch Linux](https://github.com/geeknozy/Arch-BSPWM)
 
-##### Please feel free to contact me to work on any project, I would be very happy to contribute in any way I can. :)
+##### Please feel free to contact me below ways to work on any project, I would be very happy to contribute in any way I can. :)
+
+##### [Email me](geeknozy@protonmail.com) <br />
+
+or
+
+##### [Join my Discord server](https://discord.com/invite/3qnMJpdSqa) <br />
