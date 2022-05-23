@@ -21,7 +21,5 @@
 ##### Please feel free to contact me below ways to work on any project, I would be very happy to contribute in any way I can. :)
 
 ##### [Email me](geeknozy@protonmail.com) <br />
-
 or
-
 ##### [Join my Discord server](https://discord.com/invite/3qnMJpdSqa) <br />
