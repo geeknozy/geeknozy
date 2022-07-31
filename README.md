@@ -7,7 +7,8 @@
 - I believe in life long learning.<br>
 
 #### Currently learning / working on
-* Java/J2EE.
+* Core Java, JVS / Openlink Endur.
+* SQL
 * DevOps.
 * Android Application Development.
 * More about Linux.
