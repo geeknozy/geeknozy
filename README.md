@@ -1,7 +1,7 @@
 ### Hi there welcome :)<br>
 
 #### About Me!
-<b>nozy</b> is my nickname. I'm from <b>India</b><br>
+<b>qoeus</b> is my nickname. I'm from <b>India</b><br>
 - I'm a Java developer working in ETRM domain.<br>
 - I'm a hobbyist Linux user and I like to tinker with operating systems.<br>
 - I believe in life long learning.<br>
