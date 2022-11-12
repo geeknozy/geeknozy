@@ -15,7 +15,6 @@
 
 #### Few of my works
 - [Arch Linux Installation Guide](https://github.com/geeknozy/Arch-Linux-Installation-Guide)
-- [GruvBox Theme on Arch Linux](https://github.com/geeknozy/Arch-BSPWM)
 
 ##### Please feel free to contact me below ways to work on any project, I would be very happy to contribute in any way I can. :)
 
