@@ -17,6 +17,4 @@
 - [Arch Linux Installation Guide](https://github.com/geeknozy/Arch-Linux-Installation-Guide)
 - [BSPWM (window manager) dotfiles](https://github.com/geeknozy/dotfiles)
 
-##### Please feel free to contact me below ways to work on any project, I would be very happy to contribute in any way I can. :)
-
-##### [Email me](geeknozy@protonmail.com)
+##### love to contribute for opensource
