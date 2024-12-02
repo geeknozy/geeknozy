@@ -11,7 +11,7 @@
 - Core Java, JVS / Openlink Endur.
 - Azure DevOps.
 - Software Testing.(Automation using Gherkins).
-- Linux operating systems and other Opensource softwares.
+- Linux operating systems and FOSS.
 
 #### Few of my works
 - [Arch Linux Installation Guide](https://github.com/geeknozy/Arch-Linux-Installation-Guide)
