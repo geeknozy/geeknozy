@@ -7,11 +7,11 @@
 - I am also a PC build enthusiast <br>
 - I believe in life long learning.<br>
 
-#### Currently learning / working on
+#### Learnings / working on
 - Core Java, JVS / Openlink Endur.
 - Azure DevOps.
 - Software Testing.(Automation using Gherkins).
-- More about Linux operating systems and other Opensource softwares.
+- Linux operating systems and other Opensource softwares.
 
 #### Few of my works
 - [Arch Linux Installation Guide](https://github.com/geeknozy/Arch-Linux-Installation-Guide)
